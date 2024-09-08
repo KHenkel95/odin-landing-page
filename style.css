@@ -2,6 +2,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 .header {
@@ -10,7 +11,7 @@ body {
 }
 
 .header, .hero-container{
-    padding: 10px 75px;
+    padding: 10px 125px;
 }
 
 .header-logo {
