@@ -10,8 +10,8 @@ body {
     justify-content: space-between;
 }
 
-.header, .hero-container{
-    padding: 10px 125px;
+.header, .hero-container, .info-container{
+    padding: 10px 200px;
 }
 
 .header-logo {
@@ -49,6 +49,12 @@ a, .secondary-hero-text{
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
+}
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .hero-button{
