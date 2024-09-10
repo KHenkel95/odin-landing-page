@@ -62,3 +62,27 @@ a, .secondary-hero-text{
 .hero-image{
     width: 400px;
 }
+
+.info-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.info-header{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.info-image{
+    width: 50px;
+}
+
+.info-box-container{
+    display: flex;
+}
+
+.info-box{
+    display: flex;
+    flex-direction: column;
+}
