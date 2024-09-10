@@ -74,6 +74,8 @@ a, .secondary-hero-text{
 .info-container{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    gap: 15px;
 }
 
 .info-header{
@@ -83,14 +85,18 @@ a, .secondary-hero-text{
 }
 
 .info-image{
-    width: 50px;
+    width: 150px;
+    border-radius: 20px;
 }
 
-.info-box-container{
+.info-card-container{
     display: flex;
+    gap: 40px;
 }
 
-.info-box{
+.info-card{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
