@@ -11,7 +11,7 @@ body {
     justify-content: space-between;
 }
 
-.header, .hero-container, .info-container, .quote-container{
+.header, .hero-container, .info-container, .call-container,.quote-container{
     padding: 10px 250px;
 }
 
@@ -119,4 +119,14 @@ a, .secondary-hero-text{
     align-self: flex-end;
     font-size: 18px;
     color: #1F2937;
+}
+
+.call-container{
+    display: flex;
+}
+
+.call{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 5px;
 }
