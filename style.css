@@ -123,6 +123,8 @@ a, .secondary-hero-text{
 
 .call-container{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .call{
