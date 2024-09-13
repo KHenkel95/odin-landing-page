@@ -131,6 +131,11 @@ a, .secondary-hero-text{
     background-color: #3882F6;
     color: #F9FAF8;
     border-radius: 5px;
+    flex: 1;
+    padding: 5px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .call-button{
