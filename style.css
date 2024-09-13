@@ -157,3 +157,10 @@ a, .secondary-hero-text{
     background-color: white;
     color: #3882F6;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    color: #E5E7EB;
+    padding: 20px;
+}
