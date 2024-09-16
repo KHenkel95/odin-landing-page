@@ -75,6 +75,7 @@ a, .secondary-hero-text{
 
 .hero-image{
     width: 400px;
+    min-width: 250px;
 }
 
 .info-container{
