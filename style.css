@@ -30,7 +30,8 @@ ul {
 
 .hero-container{
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
+    justify-content: space-between;
 }
 
 .header, .hero-container, .footer {
@@ -56,6 +57,7 @@ a, .secondary-hero-text{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    max-width: 40%;
 }
 
 .hero-button{
@@ -74,8 +76,7 @@ a, .secondary-hero-text{
 }
 
 .hero-image{
-    width: 400px;
-    min-width: 250px;
+    max-width: 40%;
 }
 
 .info-container{
