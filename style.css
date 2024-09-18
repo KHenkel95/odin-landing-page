@@ -100,7 +100,7 @@ a, .secondary-hero-text{
 
 .info-card-container{
     display: flex;
-    gap: 10px;
+    gap: 40px;
     flex-wrap: wrap;
     justify-content: center;
 }
