@@ -12,7 +12,7 @@ body {
 }
 
 .header, .hero-container, .info-container, .call-container,.quote-container{
-    padding: 10px 250px;
+    padding: 10px 20%;
 }
 
 .header-logo {
