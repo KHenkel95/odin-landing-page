@@ -57,6 +57,7 @@ a, .secondary-hero-text{
     flex-direction: column;
     justify-content: center;
     max-width: 40%;
+    gap: 10px;
 }
 
 .hero-button{
