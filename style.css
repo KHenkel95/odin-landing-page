@@ -42,7 +42,7 @@ a, .secondary-hero-text, .footer {
 }
 
 .header, .hero-container, .info-container, .call-container,.quote-container{
-    padding: 10px 20%;
+    padding: 20px 20%;
 }
 
 .header-logo {
