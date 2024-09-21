@@ -41,7 +41,7 @@ a, .secondary-hero-text, .footer {
     justify-content: space-between;
 }
 
-.header, .hero-container, .info-container, .call-container,.quote-container{
+.header, .hero-container, .info-container, .call-container, .quote-container{
     padding: 20px 20%;
 }
 
