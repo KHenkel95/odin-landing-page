@@ -16,11 +16,11 @@ a, .secondary-hero-text, .footer {
 
 
 .info-header, .quote, .quote-author {
-    color: #1F2937;
+    color: #18200e;
 }
 
 .header, .hero-container, .footer {
-    background-color: #1F2937;
+    background-color: #18200e;
 }
 
 .hero-button, .call-button {
@@ -28,12 +28,12 @@ a, .secondary-hero-text, .footer {
 }
 
 .hero-button, .call, .call-button {
-    background-color: #3882F6;
+    background-color: #6db426;
 }
 
 .hero-button:hover, .call-button:hover {
     background-color: white;
-    color: #3882F6;
+    color: #6db426;
 }
 
 .header {
