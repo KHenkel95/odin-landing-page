@@ -66,6 +66,10 @@ a {
     text-decoration: none;
 }
 
+a:hover{
+    font-size: 150%;
+}
+
 a, .secondary-hero-text{
     font-size: 18px;
 }
