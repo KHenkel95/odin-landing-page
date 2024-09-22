@@ -109,16 +109,16 @@ a, .secondary-hero-text{
 }
 
 .info-image{
-    width: 150px;
+    width: 200px;
     min-width: 50px;
     border-radius: 20px;
 }
 
 .info-card-container{
     display: flex;
-    gap: 40px;
+    gap: 60px;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .info-card{
