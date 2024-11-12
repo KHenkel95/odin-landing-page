@@ -2,7 +2,7 @@ This is a landing page project as part of The Odin Project. I originally
 followed the specifications given as part of the project. I then chose to change
 the content to represent a fake knitting business.
 
-Live Demo: https://khenkel95.github.io/odin-landing-page/
+[Live Demo](https://khenkel95.github.io/odin-landing-page/)
 
 Photo credits to:
 
